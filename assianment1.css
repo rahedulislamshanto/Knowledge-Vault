@@ -93,6 +93,71 @@
     font-weight: 600;
     font-size: 16px;
 }
+.section1{
+    width: 1600px;
+    height: 448px;
+    margin: 0 auto;
+}
+.section1 .section1-head{
+    padding: 0 120px;
+    text-align: center;
+}
+.section1 .section1-head h3{   
+font-weight: 700;
+font-style: Bold;
+font-size: 48px;
+padding: 30px 0px 0px 0px;
+}
+.section1 .section1-head p{
+    color:  #627382;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.card{
+    display: flex;
+    height: 300px;
+    width: 1360px;
+    margin: 20px 120px 0px 120px;
+    gap: 24px;
+    text-align: center;
+    margin-top: 44px;
+}
+.card img{
+    background-color: #f95555  ;
+    width: 32px;
+    height: 32px;
+    align-items: center;
+}
+.card h5{
+font-weight: 600;
+font-style: 600;
+font-size: 24px;
+margin-top: 16px;
+}
+.card p{
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+margin-top: 16px;
+}
+.card .card-c{
+    height: 300px;
+    width: 322px;
+    border-radius: 8px;
+    padding: 24px;
+    box-shadow: 0px 0px 8px 0px #0000000F;
+}
+.icon-box {
+  width: 64px;
+  height: 64px;
+  background: #ff5a5f;   
+  border-radius: 50%;    
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px 131px 0px 115px;
+}
 
 
  
