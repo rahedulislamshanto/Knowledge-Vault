@@ -43,7 +43,7 @@
 }
 .banner  .banner-p1{
     background-color: #ffffff;
-    width:229px ;
+    width:250px ;
     height: 35px;
     color: #469165;
     border-radius: 1000px;
@@ -175,6 +175,8 @@ margin-top: 16px;
     width: 700px;
     padding: 102px 0px;
 }
+
+
 .section2-div .s{
     font-size: 16px;
     font-weight: 500px;
@@ -211,7 +213,6 @@ margin-top: 16px;
     height: 506px;
     width: 1600px;
     padding: 2px 120px 120px 120px;
-    border: 1px solid red;
     margin: 0 auto;
 }
 .section3 .section3-bigdiv{
@@ -259,3 +260,39 @@ margin-top: 16px;
     color: #627382;
     margin-top: 16px;
 }
+.section4{
+    background-color: #001931;
+    width: 1600px;
+    height: 348px;
+    border-top: 1px ;
+    margin: 0 auto;
+    padding: 120px 120px 30px 120px;
+    gap: 80px;
+}
+.section4-div1{
+    display: flex;
+    justify-content: space-between;
+}
+.section4-div1 p{
+    color: #ffffff;
+       font-size: 20px;   
+       font-weight: 500;
+       line-height: 28px; 
+       margin-bottom: 16px;           
+}
+.img-div div{
+     gap: 15px;
+}
+.section4-div2{
+    color:#FAFAFA;
+    margin: 80px 120px 30px 120px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+    
+
+
